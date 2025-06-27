@@ -6,7 +6,7 @@
  Write an after update trigger on Account that updates the Phone field of all related Contacts if the Account’s Phone field has changed.
 
 EVENT  : After Insert, After Update
-OBJECT : Contact
+OBJECT : Account
 
 */
 
