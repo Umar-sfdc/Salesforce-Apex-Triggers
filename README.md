@@ -1,13 +1,12 @@
-# Salesforce Apex Trigger Collection
+# Salesforce Apex Trigger
 
-A curated collection of Apex Trigger solutions for various Salesforce use cases.  
-This repository includes real-time examples, from beginner-level triggers to slightly advanced ones, covering different trigger events and business logic.
+A collection of Apex Trigger solutions for common Salesforce use cases.  
+Includes real-time examples from basic to intermediate level.
 
-Starting from trigger #21, each solution includes a corresponding **Test Class** for better coverage and deployment readiness.
+From Trigger #21 onward, each example includes a **Test Class** for better coverage.
 
-
-> 🧠 **“Code is like humor. When you have to explain it, it’s bad.” — Cory House**
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ### Contributions
 
-This is a personal learning and practice repo. Feel free to fork or use any logic as reference for your own development!
+This is a personal learning repo. Feel free to use or fork for reference.
